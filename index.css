@@ -1,6 +1,6 @@
 
-/* shared style */
-
+/* google font section start*/
+/* google font section start*/
 .inter-inter {
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
@@ -13,23 +13,21 @@
   font-weight: <weight>;
   font-style: normal;
 }
-/* shared style */
+/* google font section end*/
+/* google font section end*/
 
-/* body  style*/
 
-/* body{
-    max-width: 1140px;
-    margin: 0px auto;
-    background-color: antiquewhite;
-}
-
-body  style */
-
+/* header background image section start */
+/* header background image section start */
 .header-bg-image{
     background-image: url("Assets/Hero-bg.png");
 }
+/* header background image section end */
+/* header background image section end */
 
 
+/* header nav & banner section start */
+/* header nav & banner section start */
 .header{
     max-width: 1140px;
     margin: 0px auto;
@@ -82,7 +80,6 @@ body  style */
    
     width: 905px;
     height: 260px;
-    /* border: 2px solid red; */
     margin: 0px auto;
     text-align: center;
     margin-top: 158px;
@@ -99,23 +96,24 @@ body  style */
     height: 48px;
     width: 174px;
 }
+/* header nav & banner section end */
+/* header nav & banner section end */
 
 
+/* Content section start */
+/* Content section start */
 .main-section{
     max-width: 1140px;
     height: 328px;
     display: flex;
     justify-content: space-between;
     margin: 0px auto;
-    /* background-color: 3px solid red; */
-    /* background-color: red; */
     align-items: center;
 }
 
 .content-one{
     height: 203px;
     width: 517px;
-    /* border: 3px solid black; */
 }
 .content-one h3{
         font-size: 42px;
@@ -143,3 +141,5 @@ body  style */
     border-radius: 48px;
 }
 
+/* Content section end */
+/* Content section end */
