@@ -10,7 +10,7 @@
 .raleway-raleway {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: weight>;
   font-style: normal;
 }
 /* google font section end*/
@@ -143,3 +143,77 @@
 
 /* Content section end */
 /* Content section end */
+
+
+/* sec-section start */
+/* sec-section start */
+
+
+.sec_section{
+    margin: 0px auto;
+    /* border: 2px solid black; */
+    height: 350px;
+    width: 1140px;
+    margin-top: 116px;
+    background-color: hsla(245, 61%, 92%, 0.365);
+    padding: 0px;
+   
+
+}
+
+.sec_section_header{
+    font-size: 20px;
+    font-weight: bold;
+    color: #252432;
+    margin: 0px 0px 5px opx;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 0px;
+}
+
+.sec_section_header h2{
+    padding: 0px;
+}
+
+.card{
+    display: flex;
+    gap: 159px;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+}
+
+
+
+.sec_section_card h3{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+    padding: 0px;
+    margin-bottom: 0px;
+  
+    
+}
+
+.sec_section_card p{
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+/* sec-section end */
+/* sec-section end */
+
+
+
+
+/* Third section start */
+/* Third section start */
+
+
+
+
+
+/* Third section end */
+/* Third section end */
