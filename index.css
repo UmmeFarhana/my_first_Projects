@@ -307,3 +307,43 @@ margin-bottom: 0px;
 
 /* Third section end */
 /* Third section end */
+
+
+/* fourth section start */
+/* fourth section start */
+
+
+.Fourth_section{
+max-width: 1140px;
+height: 696px;
+margin: 0px auto;
+margin-top: 137px;
+}
+
+.fourth_section_header{
+ text-align: center;
+}
+.fourth_section_header h2{
+    font-size: 50px;
+}
+.fourth_section_header p{
+    font-size: 20px;
+    color: #rgba(0, 0, 0, 0.5);
+}
+.fourth_section_header button{
+    height: 48px;
+    width: 196px;
+}
+
+.fourth_section_image{
+ text-align: center;
+ margin-top: 20px;
+}
+.fourth_section_image img{
+    height: 364px;
+    width: 840px;
+    border-radius: 48px;
+}
+
+/* fourth section end */
+/* fourth section end */
