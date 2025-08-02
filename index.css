@@ -7,6 +7,12 @@
   font-weight: <weight>;
   font-style: normal;
 }
+.google-sans-code-sans{
+  font-family: "Google Sans Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 .raleway-raleway {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
@@ -367,7 +373,7 @@ border-radius: 20px;
   display: flex;
   gap: 115px;
   align-items: center;
-  
+
   margin-top: 92px;
 
 }
@@ -432,7 +438,7 @@ margin-bottom: 103px;
 
 .footer_header h2{
     font-size: 100px;
-    color: #4E47FF;
+    color:#082a7b;
     padding-bottom: 0px;
     text-align: center;
     margin-bottom: 0px;
